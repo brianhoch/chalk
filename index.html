@@ -1,10 +1,43 @@
 ---
 layout: default
-title: "The high quality, completely customizable, performant and 100% free blog template for Jekyll"
-description: "Chalk uses all the best tools and merges them into one premium blogging theme."
+title: "Brian Hochhalter"
+description: "Brian Hochhalter leads and scales experience design teams."
 ---
 
-<ul class="article-list">
+<div class="about {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+  <!--<img src="{% asset 'about.jpg' @path %}" alt="About Brian Hochhalter header image" />-->
+
+  <ul class="link_list">
+    <li><a href="#">CV</a></li>
+    <li><a href="#">Case studies</a></li>
+  </ul>
+
+  <h2>I lead and scale experience design teams</h2>
+  <!--<h2>Equipping design teams to build a better world</h2>-->
+
+  <p>My joy is helping design teams achieve their best impact by connecting them with what they need to produce their best work. To accomplish this, I treat design team members and our partners in product and technology as my users.
+
+  <p>I address cross-functional teams' needs through these steps:</p>
+
+  <h4>Listen. Understand the team and context.</h4>
+
+  <p>I use UX research methods to understand the experience of team members and partners. This allows me to put their goals and needs at the center of improvements to design process, communication, tooling, metrics, and management.</p>
+
+  <h4>Align. Orient to shared outcomes.</h4>
+
+  <p>With a clear understanding of needs and constraints across design, product, and technology, I work with team leaders to co-create metrics to verify when we’ve accomplished our shared outcomes.</p>
+
+  <h4>Test. Find fit, then scale.</h4>
+
+  <p>Metrics for our shared outcomes in place, I create and test hypotheses to achieve those outcomes, testing proposed improvements with portions of the team. When an intervention falls short, I refine and re-test. When an intervention hits our targets I prepare it for release to the full team.</p>
+
+  <h4>Rally. Follow the action to shared success.</h4>
+
+  <p>Evidence of fit in hand, I review the findings with design, product, and development leaders and create an implementation plan that will assure we continue to hit our shared outcomes with the new process.</p>
+
+</div>
+
+<!--<ul class="article-list">
   {% for post in paginator.posts %}
     <li class="article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
       <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
@@ -33,4 +66,4 @@ description: "Chalk uses all the best tools and merges them into one premium blo
       {% endif %}
     </li>
   {% endif %}
-</ul>
+</ul> -->
