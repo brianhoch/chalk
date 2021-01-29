@@ -3,8 +3,8 @@
 blog_theme: light # Or use dark
 name: Brian Hochhalter
 paginate: 25
-url: https://brianhoch.github.io/about
-baseurl: /about
+url: https://brianhoch.github.io/chalk
+baseurl: /chalk
 
 
 # Optional settings
