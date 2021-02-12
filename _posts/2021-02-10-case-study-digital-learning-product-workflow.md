@@ -6,11 +6,11 @@ thumb_image: "documentation/sample-image.jpg"
 tags: [process, collaboration, service design]
 ---
 
-When Macmillan Learning reorganized the digital product organization, I jumped at the opportunity to co-create an improved workflow for researching, designing, implementing, and shipping digital learning products.
+When Macmillan Learning reorganized the digital product organization, I facilitated the co-creation of an improved workflow for researching, designing, implementing, and shipping digital learning products.
 
 ## Task ##
 
-My responsibility was to represent the design team and end user’s needs in a new workflow for researching, designing, implementing, and shipping digital learning products. I co-created this workflow with our ProductOps leader.
+My responsibility was to represent the design team and end user’s needs in a new workflow for researching, designing, implementing, and shipping digital learning products. I partnered co-created this workflow with our ProductOps leader.
 
 ## Actions ##
 
