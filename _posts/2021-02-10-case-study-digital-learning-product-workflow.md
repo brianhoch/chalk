@@ -3,7 +3,7 @@ layout: post
 title: "Align design and product team workflows"
 description: "Resolved collaboration pains through an improved workflow."
 thumb_image: "documentation/sample-image.jpg"
-tags: [process, collaboration, service design]
+tags: [process, collaboration, servicedesign]
 ---
 
 When Macmillan Learning reorganized the digital product organization, I facilitated the co-creation of an improved workflow for researching, designing, implementing, and shipping digital learning products.

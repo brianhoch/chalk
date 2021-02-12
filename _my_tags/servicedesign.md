@@ -1,4 +1,4 @@
 ---
-slug: service design
+slug: servicedesign
 name: Service Design
 ---
