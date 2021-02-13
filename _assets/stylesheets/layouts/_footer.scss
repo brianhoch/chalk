@@ -9,9 +9,9 @@
   border-top: 1px solid $base-border-color;
   p {
     font-size: 15px;
-    color: $gray-light;
+    color: $base-font-color;
   }
   a {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
